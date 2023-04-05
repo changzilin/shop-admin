@@ -1,7 +1,36 @@
-# Vue 3 + Vite
+# vue3-shop-admin
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> ```shell
+> 技术栈 vite4.x + vue3.x + element-plus + windicss...
+> ```
 
-## Recommended IDE Setup
+- 账号：admin，密码：admin
+- [api文档](http://dishaxy.dishait.cn/shopadminapi)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+
+## 安装使用
+
+- 获取项目代码
+
+```shell
+git clone https://gitee.com/changzilin/shop-admin.git
+```
+
+- 安装依赖
+
+```shell
+npm install
+```
+
+- 运行
+
+```shell
+npm run dev
+```
+
+- 打包
+
+```shell
+npm run build
+```

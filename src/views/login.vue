@@ -235,7 +235,7 @@ function handleAnimationend(className) {
   font-weight: 600;
   margin: 30px 0;
   box-shadow: -20px 28px 42px 0 rgb(62 145 255 / 37%);
-  @apply w-full h-[50px];
+  @apply w-full h-[40px];
 }
 
 @keyframes movement {

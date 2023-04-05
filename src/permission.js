@@ -29,6 +29,7 @@ router.beforeEach(async (to, from) => {
 
   // 设置页面标题
   document.title = to.meta.title ? to.meta.title : "商城后台管理系统"
+
   if (hasNewRoutes) return to.fullPath
 })
 
